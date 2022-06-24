@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'control-value-accessor-template';
+  text = 'Change me and press enter'
 }

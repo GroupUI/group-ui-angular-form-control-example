@@ -1,0 +1,29 @@
+:host {
+  display: grid;
+}
+
+#headline {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+groupui-icon {
+  display: inline-block;
+  margin-right: 0.5rem;
+}
+
+groupui-card {
+  place-self: center;
+  width: 400px;
+}
+
+groupui-text {
+  margin-top: 2rem;
+}
+
+#input-wrapper {
+  display: grid;
+  gap: 1rem;
+}
